@@ -2,7 +2,7 @@ import React from 'react'
 
 const Titulo = () => {
   return (
-    <div className='titulo'>Alexandre Pereira Queiroz de Souza</div>
+    <h1 className='titulo'>Oi, eu sou Alexandre</h1>
   )
 }
 
